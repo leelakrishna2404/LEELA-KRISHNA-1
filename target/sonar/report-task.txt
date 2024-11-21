@@ -1,0 +1,6 @@
+projectKey=krishna-project-2
+serverUrl=http://65.2.175.18:9000
+serverVersion=9.9.7.96285
+dashboardUrl=http://65.2.175.18:9000/dashboard?id=krishna-project-2
+ceTaskId=AZNNO06rXUmOjjKfZUqr
+ceTaskUrl=http://65.2.175.18:9000/api/ce/task?id=AZNNO06rXUmOjjKfZUqr
